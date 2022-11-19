@@ -11,8 +11,15 @@ This repository contains a React application example on how to implement client-
 Note: This application uses React Router version 5. Optionally, you can run the following command to install React Router version 5 dependencies:
 ```npm install react-router-dom@5.3.0 react-router@5.2.1```
 
+### Group Members
+| Name       | Github              |
+| --------------- | ----------------- |
+| Yoomin Song | ysong04 |
+| Pakeeza Rashid  | Pakeezarashid27 |
+| Asada Rafique | AsadRafique98 |
+
 ### Live Link 
-[Website link](https://johnnylaicode.github.io/bank-of-react-example-code-gh-pages/)
+[Website link](https://ysong04.github.io/bank-of-react-example-code-gh-pages/)
 
 ----------
 ### Use the following steps to set up and deploy the React application to GitHub Pages
