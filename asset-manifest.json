@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mbank-of-react-example-code-gh-pages/static/css/main.99f3aaac.chunk.css",
-    "main.js": "/mbank-of-react-example-code-gh-pages/static/js/main.d280c48e.chunk.js",
-    "main.js.map": "/mbank-of-react-example-code-gh-pages/static/js/main.d280c48e.chunk.js.map",
-    "runtime-main.js": "/mbank-of-react-example-code-gh-pages/static/js/runtime-main.d7a9cd34.js",
-    "runtime-main.js.map": "/mbank-of-react-example-code-gh-pages/static/js/runtime-main.d7a9cd34.js.map",
-    "static/js/2.13f783c1.chunk.js": "/mbank-of-react-example-code-gh-pages/static/js/2.13f783c1.chunk.js",
-    "static/js/2.13f783c1.chunk.js.map": "/mbank-of-react-example-code-gh-pages/static/js/2.13f783c1.chunk.js.map",
-    "static/js/3.3e842d8a.chunk.js": "/mbank-of-react-example-code-gh-pages/static/js/3.3e842d8a.chunk.js",
-    "static/js/3.3e842d8a.chunk.js.map": "/mbank-of-react-example-code-gh-pages/static/js/3.3e842d8a.chunk.js.map",
-    "index.html": "/mbank-of-react-example-code-gh-pages/index.html",
-    "static/css/main.99f3aaac.chunk.css.map": "/mbank-of-react-example-code-gh-pages/static/css/main.99f3aaac.chunk.css.map",
-    "static/js/2.13f783c1.chunk.js.LICENSE.txt": "/mbank-of-react-example-code-gh-pages/static/js/2.13f783c1.chunk.js.LICENSE.txt"
+    "main.css": "/bank-of-react-example-code-gh-pages/static/css/main.99f3aaac.chunk.css",
+    "main.js": "/bank-of-react-example-code-gh-pages/static/js/main.532fa40d.chunk.js",
+    "main.js.map": "/bank-of-react-example-code-gh-pages/static/js/main.532fa40d.chunk.js.map",
+    "runtime-main.js": "/bank-of-react-example-code-gh-pages/static/js/runtime-main.1d645fc4.js",
+    "runtime-main.js.map": "/bank-of-react-example-code-gh-pages/static/js/runtime-main.1d645fc4.js.map",
+    "static/js/2.6682b5a3.chunk.js": "/bank-of-react-example-code-gh-pages/static/js/2.6682b5a3.chunk.js",
+    "static/js/2.6682b5a3.chunk.js.map": "/bank-of-react-example-code-gh-pages/static/js/2.6682b5a3.chunk.js.map",
+    "static/js/3.2fb30d3e.chunk.js": "/bank-of-react-example-code-gh-pages/static/js/3.2fb30d3e.chunk.js",
+    "static/js/3.2fb30d3e.chunk.js.map": "/bank-of-react-example-code-gh-pages/static/js/3.2fb30d3e.chunk.js.map",
+    "index.html": "/bank-of-react-example-code-gh-pages/index.html",
+    "static/css/main.99f3aaac.chunk.css.map": "/bank-of-react-example-code-gh-pages/static/css/main.99f3aaac.chunk.css.map",
+    "static/js/2.6682b5a3.chunk.js.LICENSE.txt": "/bank-of-react-example-code-gh-pages/static/js/2.6682b5a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7a9cd34.js",
-    "static/js/2.13f783c1.chunk.js",
+    "static/js/runtime-main.1d645fc4.js",
+    "static/js/2.6682b5a3.chunk.js",
     "static/css/main.99f3aaac.chunk.css",
-    "static/js/main.d280c48e.chunk.js"
+    "static/js/main.532fa40d.chunk.js"
   ]
 }
